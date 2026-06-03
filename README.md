@@ -158,7 +158,7 @@ Full-stack shopping app with product browsing, cart management, and order placem
 
 ## Current Focus
 
-<div align="center">
+<div>
 
 ```text
 Learning       : AI, ML, Web Development
