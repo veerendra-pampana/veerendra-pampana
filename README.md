@@ -165,5 +165,3 @@ Learning       : AI, ML, Web Development
 Building       : Real-world Python and ML projects
 Improving      : Problem-solving and software development skills
 Goal           : Become a strong AI/ML developer
-<div align="center"> <a href="mailto:p.veerendra5369@gmail.com"> <img src="https://img.shields.io/badge/Email-p.veerendra5369%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/veerendra-pampana"> <img src="https://img.shields.io/badge/LinkedIn-Veerendra%20Pampana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/veerendra-pampana"> <img src="https://img.shields.io/badge/GitHub-veerendra--pampana-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=130&section=footer" /> </div> ```
