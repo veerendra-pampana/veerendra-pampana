@@ -99,15 +99,15 @@ Gained practical experience in network configuration, troubleshooting, and syste
   <img src="https://img.shields.io/badge/Email-p.veerendra5369%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://www.linkedin.com/in/veerendra-pampana">
+  <img src="https://img.shields.io/badge/LinkedIn-Veerendra%20Pampana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <a href="https://github.com/veerendra-pampana">
   <img src="https://img.shields.io/badge/GitHub-veerendra--pampana-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
-
----
-
-<div align="center">
 
 ### Thanks for visiting my profile
 
